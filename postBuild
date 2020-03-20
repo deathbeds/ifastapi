@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -eux
+jupyter labextension install $(cat labex.txt) --no-build
+jupyter labextension list
+jupyter lab build --debug --dev-build=False --minimize=True
+jupyter labextension list

@@ -1,0 +1,26 @@
+name: ifastapi
+
+channels:
+  - conda-forge
+
+dependencies:
+  - fastapi >=0.52.0
+  - importnb
+  - ipywidgets
+  - jsonref
+  - jupyter-server-proxy
+  - jupyterlab >=2,<2.1.0a0
+  - msgpack-python
+  - nodejs
+  - pip
+  - python >=3.7,<3.8.0a0
+  - python-dateutil
+  - pytz
+  - pyyaml
+  - simplejson
+  - six
+  - swagger-spec-validator >=2.0.1
+  - uvicorn
+  - pip:
+    - aiobravado
+    - bravado-asyncio >=0.4.0,<1.1.0
