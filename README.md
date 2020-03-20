@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gist/bollwyvl/715040d3cbbdb7d95d81be71a0ac980f/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gist/bollwyvl/715040d3cbbdb7d95d81be71a0ac980f/master?urlpath=lab)
